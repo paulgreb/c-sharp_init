@@ -10,6 +10,9 @@ namespace ConsoleAppX
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mesaj pentru Github");
+
+            Console.ReadKey();
         }
     }
 }
