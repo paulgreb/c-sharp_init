@@ -12,6 +12,8 @@ namespace ConsoleAppX
         {
             Console.WriteLine("Mesaj pentru Github");
 
+            Console.WriteLine("First branch message");
+
             Console.ReadKey();
         }
     }
